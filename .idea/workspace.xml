@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b58f0ed0-0034-4329-b281-51c90311e342" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V59XPUfZgzZ0TSJLymjRZ4Jrbh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaTerm1" />
+  </component>
+  <component name="RunManager" selected="Application.ExceptionsTest">
+    <configuration name="ExceptionsPowLog2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression.exceptions.ExceptionsPowLog2Test" />
+      <module name="prog-intro-2019" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionsPowLogTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression.exceptions.ExceptionsPowLogTest" />
+      <module name="prog-intro-2019" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression.exceptions.ExceptionsTest" />
+      <module name="prog-intro-2019" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ticTacToe.Main" />
+      <module name="prog-intro-2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression.parser.ParserTest" />
+      <module name="prog-intro-2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression.parser.Test" />
+      <module name="prog-intro-2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ExceptionsPowLogTest" />
+      <item itemvalue="Application.ExceptionsPowLog2Test" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ParserTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ExceptionsTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExceptionsTest" />
+        <item itemvalue="Application.ExceptionsPowLog2Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ParserTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b58f0ed0-0034-4329-b281-51c90311e342" name="Default Changelist" comment="" />
+      <created>1576532127857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576532127857</updated>
+      <workItem from="1576532130907" duration="2193000" />
+      <workItem from="1576534412162" duration="343000" />
+      <workItem from="1576535068618" duration="697000" />
+      <workItem from="1576585155692" duration="839000" />
+      <workItem from="1576590868606" duration="1329000" />
+      <workItem from="1576609533590" duration="531000" />
+      <workItem from="1581071611921" duration="680000" />
+      <workItem from="1581325873828" duration="3622000" />
+      <workItem from="1581352285623" duration="12555000" />
+      <workItem from="1581524907502" duration="8004000" />
+      <workItem from="1581570150832" duration="3039000" />
+      <workItem from="1581590787000" duration="4907000" />
+      <workItem from="1581596977244" duration="2148000" />
+      <workItem from="1581617131369" duration="7166000" />
+      <workItem from="1581675856835" duration="6441000" />
+      <workItem from="1581684199249" duration="262000" />
+      <workItem from="1582037543829" duration="5479000" />
+      <workItem from="1582044112665" duration="3689000" />
+      <workItem from="1582090320722" duration="26000" />
+      <workItem from="1582208512600" duration="1706000" />
+      <workItem from="1582218422118" duration="75000" />
+      <workItem from="1584269814721" duration="38000" />
+      <workItem from="1584270012046" duration="15000" />
+      <workItem from="1589269201697" duration="365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="198" width="1115" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582046078365">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="447" y="198" width="1115" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.35.1853.1045@67.35.1853.1045" timestamp="1582046078365" />
+    <state x="754" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser" timestamp="1581619996706">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="754" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser/67.35.1853.1045@67.35.1853.1045" timestamp="1581619996706" />
+    <state x="661" y="246" width="655" height="621" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582208559260">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="661" y="246" width="655" height="621" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.35.1853.1045@67.35.1853.1045" timestamp="1582208559260" />
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1582218456841">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl/67.35.1853.1045@67.35.1853.1045" timestamp="1582218456841" />
+    <state width="1795" height="262" key="GridCell.Tab.0.bottom" timestamp="1582210218725">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="1795" height="262" key="GridCell.Tab.0.bottom/67.35.1853.1045@67.35.1853.1045" timestamp="1582210218725" />
+    <state width="1795" height="262" key="GridCell.Tab.0.center" timestamp="1582210218724">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="1795" height="262" key="GridCell.Tab.0.center/67.35.1853.1045@67.35.1853.1045" timestamp="1582210218724" />
+    <state width="1795" height="262" key="GridCell.Tab.0.left" timestamp="1582210218723">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="1795" height="262" key="GridCell.Tab.0.left/67.35.1853.1045@67.35.1853.1045" timestamp="1582210218723" />
+    <state width="1795" height="262" key="GridCell.Tab.0.right" timestamp="1582210218725">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="1795" height="262" key="GridCell.Tab.0.right/67.35.1853.1045@67.35.1853.1045" timestamp="1582210218725" />
+    <state width="1795" height="238" key="GridCell.Tab.1.bottom" timestamp="1582047802416">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="1795" height="238" key="GridCell.Tab.1.bottom/67.35.1853.1045@67.35.1853.1045" timestamp="1582047802416" />
+    <state width="1795" height="238" key="GridCell.Tab.1.center" timestamp="1582047802416">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="1795" height="238" key="GridCell.Tab.1.center/67.35.1853.1045@67.35.1853.1045" timestamp="1582047802416" />
+    <state width="1795" height="238" key="GridCell.Tab.1.left" timestamp="1582047802416">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="1795" height="238" key="GridCell.Tab.1.left/67.35.1853.1045@67.35.1853.1045" timestamp="1582047802416" />
+    <state width="1795" height="238" key="GridCell.Tab.1.right" timestamp="1582047802416">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="1795" height="238" key="GridCell.Tab.1.right/67.35.1853.1045@67.35.1853.1045" timestamp="1582047802416" />
+    <state x="495" y="184" width="986" height="745" key="NewModule_or_Project.wizard" timestamp="1582218495258">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="495" y="184" width="986" height="745" key="NewModule_or_Project.wizard/67.35.1853.1045@67.35.1853.1045" timestamp="1582218495258" />
+    <state width="460" height="568" key="javadoc.popup.new" timestamp="1576592005156">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state width="460" height="568" key="javadoc.popup.new/67.35.1853.1045@67.35.1853.1045" timestamp="1576592005156" />
+    <state x="567" y="60" width="843" height="992" key="new project wizard" timestamp="1581075432686">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="567" y="60" width="843" height="992" key="new project wizard/67.35.1853.1045@67.35.1853.1045" timestamp="1581075432686" />
+    <state x="573" y="251" key="run.anything.popup" timestamp="1581677109916">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="573" y="251" key="run.anything.popup/67.35.1853.1045@67.35.1853.1045" timestamp="1581677109916" />
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1581682246423">
+      <screen x="67" y="35" width="1853" height="1045" />
+    </state>
+    <state x="572" y="45" width="840" height="1034" key="search.everywhere.popup/67.35.1853.1045@67.35.1853.1045" timestamp="1581682246423" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/expression/parser/StringLexemizer.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/expression/parser/Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/expression/parser/ExpressionParser.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

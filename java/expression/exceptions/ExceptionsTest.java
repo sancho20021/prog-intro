@@ -4,6 +4,8 @@ import expression.TripleExpression;
 import expression.Variable;
 import expression.parser.Either;
 import expression.parser.ParserTest;
+import expression.parser.ExpressionParser;
+import expression.checked.*;
 
 import java.util.ArrayList;
 import java.util.List;

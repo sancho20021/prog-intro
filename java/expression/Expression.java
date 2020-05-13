@@ -1,5 +1,7 @@
 package expression;
 
+import expression.ToMiniString;
+
 /**
  * @author Georgiy Korneev (kgeorgiy@kgeorgiy.info)
  */
